@@ -1,0 +1,8 @@
+D:\Mphasis\Day-19\ConAppAssignment22\ConAppAssignment22\bin\Debug\ConAppAssignment22.exe.config
+D:\Mphasis\Day-19\ConAppAssignment22\ConAppAssignment22\bin\Debug\ConAppAssignment22.exe
+D:\Mphasis\Day-19\ConAppAssignment22\ConAppAssignment22\bin\Debug\ConAppAssignment22.pdb
+D:\Mphasis\Day-19\ConAppAssignment22\ConAppAssignment22\obj\Debug\ConAppAssignment22.csproj.AssemblyReference.cache
+D:\Mphasis\Day-19\ConAppAssignment22\ConAppAssignment22\obj\Debug\ConAppAssignment22.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Day-19\ConAppAssignment22\ConAppAssignment22\obj\Debug\ConAppAssignment22.csproj.CoreCompileInputs.cache
+D:\Mphasis\Day-19\ConAppAssignment22\ConAppAssignment22\obj\Debug\ConAppAssignment22.exe
+D:\Mphasis\Day-19\ConAppAssignment22\ConAppAssignment22\obj\Debug\ConAppAssignment22.pdb
